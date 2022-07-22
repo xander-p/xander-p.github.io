@@ -1,0 +1,462 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>MUTATION.ME</title>
+        <description>Blog on rare diseases and omics</description>
+        <link>http://localhost:4000/</link>
+        <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
+        <pubDate>Fri, 22 Jul 2022 03:13:43 +0200</pubDate>
+        <lastBuildDate>Fri, 22 Jul 2022 03:13:43 +0200</lastBuildDate>
+        <generator>Jekyll v4.2.2</generator>
+        
+            <item>
+                <title>Interview by Dr. Olena Berezovska: Let&apos;s talk about liver</title>
+                <description>&lt;h2 id=&quot;description&quot;&gt;Description&lt;/h2&gt;
+&lt;p&gt;During this meeting with Dr. Olena Berezovska (Ontario, Canada), we touched upon the topic of the liver in the research context.&lt;/p&gt;
+</description>
+                <pubDate>Sat, 09 Jul 2022 12:00:00 +0200</pubDate>
+                <link>http://localhost:4000/interview-berezovska-liver</link>
+                <guid isPermaLink="true">http://localhost:4000/interview-berezovska-liver</guid>
+                
+                <category>Interviews</category>
+                
+                <category>hepatology</category>
+                
+                <category>talks</category>
+                
+                
+            </item>
+        
+            <item>
+                <title>Interview by Dr. Olena Berezovska: Preimplantation genetic diagnosis</title>
+                <description>&lt;h2 id=&quot;description&quot;&gt;Description&lt;/h2&gt;
+&lt;p&gt;We met with Dr. Olena Berezovska (Ontario, Canada) to discuss the preimplantation genetic diagnosis.&lt;/p&gt;
+</description>
+                <pubDate>Tue, 05 Jul 2022 12:00:00 +0200</pubDate>
+                <link>http://localhost:4000/interview-berezovska-pgd</link>
+                <guid isPermaLink="true">http://localhost:4000/interview-berezovska-pgd</guid>
+                
+                <category>interviews</category>
+                
+                <category>hepatology</category>
+                
+                <category>talks</category>
+                
+                
+            </item>
+        
+            <item>
+                <title>Генна Слуханка з Ганною Гаврюшенко</title>
+                <description>&lt;h2 id=&quot;опис&quot;&gt;Опис&lt;/h2&gt;
+&lt;p&gt;Запис генної слуханки з Ганною Гаврюшенко 2022-05-07. Ганна - лікарка-генетик та авторка каналу &lt;a href=&quot;https://t.me/hypnic&quot;&gt;Лагідна генетизація&lt;/a&gt;. Мої читачі можуть пам’ятати наше інтерв’ю про стипендію на курс з клінічної геноміки, яку Ганна отримала у 2019-му: &lt;a href=&quot;ganna-gavrjushenko-ngs&quot;&gt;лінк&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Розмовляємо про те, як проходить робочий день лікарки-генетика, які реалії життя українських пацієнтів з генетичними хворобами під час війни, і які тренди є в медичній генетиці прямо зараз.&lt;/p&gt;
+
+&lt;p&gt;00:00 Вступ&lt;br /&gt;
+03:22 Про медико-генетичний центр&lt;br /&gt;
+09:29 Як Ганна стала лікаркою-генетиком?&lt;br /&gt;
+21:00 Як проходить робочий день лікарки-генетика?&lt;br /&gt;
+30:17 Чи користуються медичні генетики базами даними варіантів або фенотипічними базами?&lt;br /&gt;
+33:20 Ганна та NGS&lt;br /&gt;
+41:30 Чи потрібні, на думку Ганни, нам генетичні консультанти?&lt;br /&gt;
+47:20 Пацієнти Ганни під час війни та психологічна підтримка&lt;br /&gt;
+50:55 Про пацієнтів з орфанними хворобами&lt;br /&gt;
+1:11:35 Наука та клініка&lt;br /&gt;
+1:16:10 MTHFR та гомоцистеїн&lt;br /&gt;
+1:29:00 Взаємодія з лікарями-патологами&lt;/p&gt;
+</description>
+                <pubDate>Mon, 09 May 2022 12:00:00 +0200</pubDate>
+                <link>http://localhost:4000/genna-sluhanka-1</link>
+                <guid isPermaLink="true">http://localhost:4000/genna-sluhanka-1</guid>
+                
+                <category>Українською</category>
+                
+                <category>genetics</category>
+                
+                <category>interviews</category>
+                
+                
+            </item>
+        
+            <item>
+                <title>Antarctica: a few facts about Ukrainian research station and human interest in the coldest continent</title>
+                <description>&lt;p&gt;Oksana Savenko, a marine biologist and polar explorer, with whom I had a pleasure to cooperate in a popular science project, recently shared an interview with her Antarctic expedition colleague, geophysicist Bogdan Gavrylyuk. It’s fascinating and worth watching if you understand Ukrainian (follow to her public page). Here, I would like to highlight a few points for my English-speaking fellows:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Vernadsky station is a Ukrainian Antarctic research base located in Western Antarctica. The National Antarctic Scientific Center operates it;&lt;/li&gt;
+  &lt;li&gt;It was previously known as Faraday station. The base was established in 1947 as a British research station, and the UK government decided to sell the station in early 90-s what attracted several interested countries;&lt;/li&gt;
+  &lt;li&gt;Despite the Ukrainian contribution to the exploration of Antarctic, it was rejected to own one of the existing stations upon dissolution of the USSR;&lt;/li&gt;
+  &lt;li&gt;Due to the efforts of Ukrainian scientists and diplomats, and to the reciprocal support of the United Kingdom, Faraday station was transferred to Ukraine in 1995 to continue the existing research;&lt;/li&gt;
+  &lt;li&gt;Since then, annual Antarctic expeditions include station support staff, engineers, researchers from life and earth sciences, and a physician;&lt;/li&gt;
+  &lt;li&gt;Environmental measurements on the station started in 1947 and continue, making it probably the longest continuous track in Antarctica;&lt;/li&gt;
+  &lt;li&gt;The state research program has extended the original research scope, what lead, among others, to findings publications from own and collaborative projects in marine biology, geology, behavioral sciences, and to the discovery of a glacial lake on Galindez island;&lt;/li&gt;
+  &lt;li&gt;Due to the recent reforms in the Center, the recruitment process for new expeditions has become more transparent. Scientific projects undergo peer-review. Besides, female candidates can participate in expeditions again. Although it was never banned officially, there were “unofficial” limitations for approximately 20 years.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;why-humanity-even-needs-antarctic-research&quot;&gt;Why humanity even needs Antarctic research&lt;/h2&gt;
+
+&lt;p&gt;According to NASA, in Antarctica we can find an equal number of meteorites as in all the rest of the world - they are preserved in ice, waiting for us to study them just like LAP-149, containing oxygen- and carbon-rich stardust from nova (Haenecour et al., 2019).&lt;/p&gt;
+
+&lt;p&gt;Extremal conditions of the coldest continent create opportunities to experiment with artificial habitats, study behavioral, cognitive (Nicolas et al., 2016), and physiological (Ombergen et al. 2020) changes in humans. After its discovery, the ozone depletion area above Antarctica (Farman, Gardiner &amp;amp; Shanklin, 1985) attracted interest in climate researchers and facilitated studying climate changes, and, in particular, global warming. Another point of research possible in Antarctica is climate change on Earth during its previous history.&lt;/p&gt;
+
+&lt;p&gt;The Antarctic Treaty, an agreement defining international relations regarding Antarctica, includes 54 parties today. Several of its aims are focused on the promotion of freedom of scientific investigations and the facilitation of research cooperation.&lt;/p&gt;
+
+&lt;p&gt;Wherever our future is, Antarctic exploration is the first step to advance human resilience in extreme conditions, based on science, technologies, and multinational cooperation.&lt;/p&gt;
+
+&lt;h2 id=&quot;additional-information-on-the-topic&quot;&gt;Additional information on the topic:&lt;/h2&gt;
+&lt;ol&gt;
+  &lt;li&gt;The website of the National Antarctic Scientific Center of Ukraine: http://uac.gov.ua/en/&lt;/li&gt;
+  &lt;li&gt;“The beginning of the history. A memorandum on the transfer of the British station to Ukraine was signed 25 years ago”: http://uac.gov.ua/en/the-beginning-of-the-history-a-memorandum-on-the-transfer-of-the-british-station-to-ukraine-was-signed-25-years-ago/&lt;/li&gt;
+  &lt;li&gt;The website of The Secretariat of the Antarctic Treaty - scientific cooperation database: https://www.ats.aq/devAS/ToolsAndResources/SearchAtd?from=1/1/1958&amp;amp;to=1/1/2158&amp;amp;lang=e&amp;amp;cat=12&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+                <pubDate>Mon, 31 Aug 2020 20:36:17 +0200</pubDate>
+                <link>http://localhost:4000/ukrainian-antarctica</link>
+                <guid isPermaLink="true">http://localhost:4000/ukrainian-antarctica</guid>
+                
+                <category>antarctica</category>
+                
+                <category>ukraine</category>
+                
+                
+                <category>Misc_stories</category>
+                
+            </item>
+        
+            <item>
+                <title>Check thy evidence: ibuprofen menace (or not).</title>
+                <description>&lt;p&gt;“Breaking news! Share urgently! WHO officially stated that drug X should/shouldn’t be administered in COVID-19!” — you could have read online in the last few days.&lt;/p&gt;
+
+&lt;p&gt;While humanity is on the way to overcome the pandemic infection, it seems that another evil spreads its vile roots, and its name is false and unproven news. Now it’s the time to calm down, take a slow breath, and do what every person with Internet access should do: the fact-checking.&lt;/p&gt;
+
+&lt;h2 id=&quot;whats-up-with-ibuprofen&quot;&gt;What’s up with ibuprofen?&lt;/h2&gt;
+&lt;p&gt;On the 14th of March Dr. Olivier Véran, the French Minister for Solidarity and Health, tweeted:&lt;/p&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;“Taking anti-inflammatory drugs (ibuprofen, cortisone, …) could be an aggravating factor of the infection. In case of fever, take paracetamol. If you are already taking anti-inflammatory drugs or in case of doubt, ask your doctor for advice.”&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;div style=&quot;text-align: right&quot;&gt; (translation from French, the original: http://bit.ly/2U4iAKR) &lt;/div&gt;
+
+&lt;p&gt;Earlier that day, a message with more detailed information was published on the website of the French Ministry of Solidarity and Health (http://bit.ly/2wlWRVk). It was noted that there were previously reported possible or confirmed cases of nonsteroidal anti-inflammatory drugs (NSAIDs)-related adverse events in patients with COVID-19. Unfortunately, the reference to the source of information was absent.&lt;/p&gt;
+
+&lt;h2 id=&quot;what-was-the-reason&quot;&gt;What was the reason?&lt;/h2&gt;
+&lt;p&gt;The reason for it is not reliably known since neither the publication nor the tweet contained any references on this matter. If you Google search the keywords “France”, “ibuprofen”, and “COVID”, you may find the comments of a few French specialists stating the same position as mentioned above, without referring to any source.&lt;/p&gt;
+
+&lt;p&gt;The recent BMJ publication (http://bit.ly/2UlbgJB) contained information about the reports of a few cases of young patients with COVID-19 who developed more severe symptoms after using NSAIDs during the early stage of their disease. Several opinions were cited, including the one of Paul Little, a professor of primary care research at the University of Southampton, who mentioned the existence of “good evidence” for prolonged illness or more severe complications in patients receiving NSAIDs, based on two randomized trials.&lt;/p&gt;
+
+&lt;h2 id=&quot;no-ibuprofen-then&quot;&gt;No ibuprofen then?&lt;/h2&gt;
+&lt;p&gt;Not so fast. In the material published by The Guardian (http://bit.ly/3b9GBWa) an additional message by Prof. Little was given:&lt;/p&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;“The evidence in this area was “not 100% clear” and had not come directly from studies of patients with Covid-19, Little said. “I personally think that given there is plausible evidence for harm, the advice should be changed.”&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;However, the UK’s NHS claims that “there is currently no strong evidence that ibuprofen can make coronavirus (COVID-19) worse. But until we have more information, take paracetamol to treat the symptoms of coronavirus, unless your doctor has told you paracetamol is not suitable for you.” (http://bit.ly/2TYAw9A). In the article “Are Warnings Against NSAIDs in COVID-19 Warranted?” (https://wb.md/3d4VACR), published on Medscape, opinions of several specialists cited, highlighting the lack of evidence of the French government statement discussed above. At this point, that’s a topic of an ongoing debate and the only way to make it productive is to perform an adequate study.&lt;/p&gt;
+
+&lt;h2 id=&quot;two-words-ace2-proteins&quot;&gt;Two words: ACE2 proteins&lt;/h2&gt;
+&lt;p&gt;The New York Times publication “Is Ibuprofen Really Risky for Coronavirus Patients?” (https://nyti.ms/2IVJuOr) refers to a recent The Lancet letter (http://bit.ly/2WnsuIU) as to the possible reason for the above-discussed statement of the French government. The recent discovery revealed that SARS-CoV-2 requires binding to angiotensin-converting enzyme (ACE2), a membrane protein, in order to infect cells. The authors of The Lancet letter speculated about the role of some drugs which upregulate ACE2, including ibuprofen, to facilitate COVID-19 in infected patients. No additional studies were performed up to the moment to receive the final answer to this question.&lt;/p&gt;
+
+&lt;h2 id=&quot;wheres-the-proof-lebowski&quot;&gt;Where’s the proof, Lebowski?&lt;/h2&gt;
+&lt;p&gt;Unfortunately, some media have distorted this situation. For example, ScienceAlert wrote in the related material: “The World Health Organization recommended Tuesday that people suffering COVID-19 symptoms avoid taking ibuprofen” (http://bit.ly/3b5Axy6). The name of the article is confusing, as no such recommendations were published by the WHO yet, and no source was cited in the article. Another big resource, Al Jazeera, published an article about this topic without mentioning that the position lacks strong evidence (http://bit.ly/2QvaSXU). Besides these sources, there is a myriad of resources without published editorial policy, spreading the misinformation on the topic.&lt;/p&gt;
+
+&lt;h2 id=&quot;more-facts&quot;&gt;More facts:&lt;/h2&gt;
+&lt;p&gt;According to the published press-briefing with Christian Lindmeier, the WHO spokesperson (http://bit.ly/2TYxQsu), from the 17 of March:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;WHO experts were looking into possible detrimental effects of ibuprofen for those infected with COVID-19; for the time being, the WHO recommended using paracetamol instead;&lt;/li&gt;
+  &lt;li&gt;WHO is aware of the discussed concerns;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;The next day more information was published: up to the current state, WHO does not recommend against the use of ibuprofen (tweet of the WHO from 18 of March, http://bit.ly/3a5jtbu).&lt;/p&gt;
+
+&lt;p&gt;This means that there was no basis for articles claiming that “WHO recommends avoiding ibuprofen”, and the decision to publish them before the statement itself was hasty and wrong.&lt;/p&gt;
+
+&lt;h2 id=&quot;brief-summary--social-media-information-hygiene&quot;&gt;Brief summary &amp;amp; social media information hygiene:&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;When referring to any recommendations, the reliable source must be re-checked and cited;&lt;/li&gt;
+  &lt;li&gt;In many clinical situations, paracetamol is preferred over NSAIDs;&lt;/li&gt;
+  &lt;li&gt;However, there is no strong evidence that ibuprofen intake leads to facilitation of COVID-19 in infected patients;&lt;/li&gt;
+  &lt;li&gt;While it still could be the case, it’s impossible to confirm or deny this hypothesis without adequate data;&lt;/li&gt;
+  &lt;li&gt;Personal opinions, based on in-vitro studies or interpretations of human physiology and disease biology are the weakest evidence in the hierarchy of evidence-based medicine (CEBM: http://bit.ly/3daifxn) and should not be considered as an immediate call for action or inaction, as well as for permission or prohibition of a medical approach or intervention;&lt;/li&gt;
+  &lt;li&gt;Every person is responsible for sharing information on social media that may appear to be false because of the potential impact on those, who are not specialists in the field, or who may interpret the data incorrectly by the reason of unfamiliarity with the principles of evidence-based medicine;&lt;/li&gt;
+  &lt;li&gt;When sharing any information, especially COVID-19-related, a thorough study of the source is the must. In the case of the slightest suspicion regarding the source or the completeness of the facts, the information should not be shared by you;&lt;/li&gt;
+  &lt;li&gt;We should develop zero tolerance to the spread of therapeutic “author’s techniques”, not supported by research, which sometimes include the application of methods of alternative medicine or substances not previously reported to be effective in the specific clinical situation. These biased approaches may lead to potential harm to patients.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Unfortunately, some of my colleagues were affected by such fakes in the media. I wish all my colleagues to maintain a critical mindset and to prevent the distribution of potentially harmful information.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;&lt;strong&gt;Statement&lt;/strong&gt;: I have no conflict of interest and I do not have any financial relationships with the abovementioned media, or with companies that could benefit from the production or distribution of the abovementioned medicines. Opinions are my own and may not represent those of my colleagues or employer.&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+                <pubDate>Thu, 19 Mar 2020 19:36:17 +0100</pubDate>
+                <link>http://localhost:4000/check-thy-evidence-ibuprofen</link>
+                <guid isPermaLink="true">http://localhost:4000/check-thy-evidence-ibuprofen</guid>
+                
+                <category>covid-19</category>
+                
+                <category>evidence-based</category>
+                
+                
+                <category>PhD_stories</category>
+                
+            </item>
+        
+            <item>
+                <title>Лікарка-генетик Ганна Гаврюшенко про стипендію на курс з клінічної геноміки та NGS</title>
+                <description>&lt;p&gt;Під час навчання студенти-медики проходять цикл з медичної генетики, щоб зрозуміти, як певні генетичні варіанти викликають хвороби та міняють відповідь пацієнтів на терапію. Проте, щоб залишатися “в тренді” медичної генетики, необхідно займатися безперервною освітою.&lt;/p&gt;
+
+&lt;p&gt;Одна з таких можливостей – відвідати курс “Clinical Genomics and NGS” від ESGM, ESHG та CEUB.&lt;/p&gt;
+
+&lt;p&gt;Що це таке та як отримати стипендію на відвідання курсу розповіла &lt;a href=&quot;https://www.facebook.com/profile.php?id=100007912084866&quot;&gt;Ганна Гаврюшенко&lt;/a&gt;. Ганна працює лікаркою-генетиком у Рівненському медико-генетичному центрі, веде Телеграм-канал &lt;a href=&quot;https://t.me/hypnic&quot;&gt;“Генетика курильщика“&lt;/a&gt;, а у 2019-му отримала стипендію від організаторів вищезгаданого курсу.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Олександр&lt;/strong&gt;: Перш за все, лікарю в Україні взагалі потрібно розуміти, що таке NGS? Можеш розповісти більше про його застосування?&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Ганна&lt;/strong&gt;: Це не завжди очевидно. Наприклад, дуже багато дітей з розладами аутистичного спектру та порушенням інтелектуального розвитку потребують генетичного тестування, що базується на NGS. В країнах, де це виконується, у 20-30% випадків можливо встановити коректний діагноз. В Україні з цим є певні дефекти діагностики.&lt;/p&gt;
+
+&lt;p&gt;Певні генетичні компанії співпрацюють з лікарями в Україні та пропонують свої діагностичні панелі, що базуються на NGS. Наприклад, нервово-м’язові, overgrowth, та інші.&lt;/p&gt;
+
+&lt;p&gt;В останній час, вагітні питають про неінвазивне пренатальне тестування (НІПТ), що також базується на NGS.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Олександр&lt;/strong&gt;: Вертаючись до теми курсу, серед організаторів є ESGM, ESHG та CEUB. Що ти можеш про них розповісти?&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Ганна&lt;/strong&gt;: European School of Genetic Medicine (ESGM) роблять освітні заходи з генетики людини у Європі. The European Society of Human Genetics (ESHG)  це професійна спільнота, а CEUB – це кампус університету Болоньї в Бертіноро, це таке містечко в горах. Там, власне, і проходить курс.&lt;/p&gt;
+
+&lt;p&gt;Як виявилося, в ESHG працюють дуже привітні люди, відкриті до співробітництва та взаємодопомоги. Спільнота має платне членство, сто євро на рік, а натомість надає певні преференції, наприклад, знижки на курси та на участь у конференціях. Якщо хтось з України бажає приєднатися, є сенс запитати про знижку на членський внесок.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Олександр&lt;/strong&gt;: Курс 2019-го року. Що сподобалося найбільше?&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Ганна&lt;/strong&gt;: Авжеж, клініка! Дайан Доннай та Ендрю Рід з Манчестера надзвичайні люди, вони проводили лекції та воркшопи з дисморфології та з біоетики. Подарували мені свою книжку! Карен Темпл – відома спеціалістка з імпринтингу. Секції від Хана Бруннера з Неймегену теж були чудові. Були секції від колег по наукових напрямах, за якими вони працюють.&lt;/p&gt;
+
+&lt;p&gt;Спочатку я зареєструвалася на всі “найстрашніші” воркшопи, а потім оцінила свої сили та вирішила сфокусуватися на клініці.&lt;/p&gt;
+
+&lt;p&gt;Дуже сподобався воркшоп з того, як у Нідерландах організовували систему скринінгу, про складнощі, що були з нею пов’язані. Ще сподобалися клінічні кейси, наприклад, коли робиш НІПТ для вагітної, а знаходиш системний вовчак чи злоякісне новоутворення. Відвідала відмінний воркшоп Джона Берна з популяційної генетики.&lt;/p&gt;
+
+&lt;p&gt;Я дізналася багато нового та багато з ким познайомилася, отримала запас натхнення на пів року вперед, отримала відчуття, що бути генетиком – це насправді круто, що є спільнота колег, де можна знайти підтримку.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/post-img/photo_2020-01-09_20-04-57.jpg&quot; alt=&quot;Ганна Гаврюшенко разом з Сером Джоном Берном під час курсу “Clinical Genomics and NGS” 2019-го року&quot; class=&quot;img-responsive&quot; /&gt;
+&lt;em&gt;Ганна Гаврюшенко разом з Сером Джоном Берном під час курсу “Clinical Genomics and NGS” 2019-го року&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Олександр&lt;/strong&gt;: На твій погляд, на яку аудиторію спрямована програма курсу?&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Ганна&lt;/strong&gt;: Є лекції та воркшопи як з “heavy science”, так і з клініки, дисморфології, біоетики. Є можливість і за комп’ютером працювати.&lt;/p&gt;
+
+&lt;p&gt;Я думаю, що і студенти, і лікарі, і біологи з біоінформатиками знайдуть там для себе багато цікавого.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Олександр&lt;/strong&gt;: На сайті курсу написано, що організатори можуть надати стипендію, що покриває внесок за курс (€780,00) та проживання. Оскільки ти отримала її у 2019-му, можеш розповісти детальніше?&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Ганна&lt;/strong&gt;: Було страшно подаватися, проте отримала я її легко. Мабуть, тому, що з України в них ще не було учасників. Я розмовляла з організаторами, виявилося, що вони зацікавлені надавати більше стипендій людям з “under-represented” країн. Наприклад, у 2018-му п’ятеро людей з Португалії отримали стипендію, а у 2019-му вже одна людина. Тому шанси у людей з України є, і великі.&lt;/p&gt;
+
+&lt;p&gt;Добиратися до місця проведення мені було не складно, до Болоньї літаком з однією пересадкою у Відні, а з Болоньї організували автобус.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;h2 id=&quot;що-рекомендовано-зробити-читачеві&quot;&gt;Що рекомендовано зробити читачеві:&lt;/h2&gt;
+  &lt;ol&gt;
+    &lt;li&gt;Підписатися на канал Ганни “Генетика курильщика” https://t.me/hypnic&lt;/li&gt;
+    &lt;li&gt;Податися та отримати стипендію на участь у курсі: https://ceub.it/events/event/clinical-genomics-and-ngs-33rd-course-jointly-organized-by-esgm-eshg-and-ceu/&lt;/li&gt;
+    &lt;li&gt;Відвідати курс та розповісти про свій досвід на каналі https://t.me/mutationme&lt;/li&gt;
+    &lt;li&gt;Зміцнити NGS-комьюніті України&lt;/li&gt;
+  &lt;/ol&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;БОНУС: Ганна готова допомогти в підготовці CV та мотиваційного листа. Якщо в вас є така потреба, напишіть їй.&lt;/p&gt;
+
+&lt;p&gt;Джерело зображення: https://www.wired.com/story/you-can-get-your-whole-genome-sequenced-but-should-you/&lt;/p&gt;
+</description>
+                <pubDate>Fri, 10 Jan 2020 19:36:17 +0100</pubDate>
+                <link>http://localhost:4000/ganna-gavrjushenko-ngs</link>
+                <guid isPermaLink="true">http://localhost:4000/ganna-gavrjushenko-ngs</guid>
+                
+                <category>Українською</category>
+                
+                <category>genetics</category>
+                
+                <category>education</category>
+                
+                
+            </item>
+        
+            <item>
+                <title>Proteomic assay for Fabry disease</title>
+                <description>&lt;p&gt;Fabry disease (FD) is an X-linked glycosphingolipid lysosomal storage disorder, which affects approximately 1 in 40 000 – 117 000 males. Female patients may have different manifestations of the disease, although its prevalence in females is unknown. If left untreated, FD may lead to multiple organ failure, and life expectancy of such patients may be reduced by up to 20 years, compared to the general population.&lt;/p&gt;
+
+&lt;p&gt;FD is caused by pathological variants of the GLA gene. The known mechanism of FD is related to the GLA product, alpha-galactosidase A enzyme. Its absent or deficient activity causes glycosphingolipids accumulation in different cells and tissues, which leads to a variety of clinical manifestations. The classic phenotype may be present from childhood and includes neuropathic or limb pain provoked by various triggers, benign skin lesions, corneal opacities, GI, and nonspecific symptoms. The involvement of renal, cardiovascular, and cerebrovascular systems causes the majority of outcomes.&lt;/p&gt;
+
+&lt;p&gt;The facts that this disease is rare, and its symptoms are not specific, contribute to misdiagnose or not considering FD by medical specialists. The diagnostic is widely available and includes molecular genetic testing, alpha-Gal A activity assay, and sometimes tissue or organ biopsies. Considering that the therapy is highly expensive (US$150–US$250K per year), it is essential to estimate the organ involvement and the treatment response.
+While the reliability of some approaches for such purposes is under investigation now (for example, detection of glycosphingolipids in body fluids), the authors of a recent paper published in the Journal of Medical Genetics decided to investigate an alternative diagnostic approach.&lt;/p&gt;
+
+&lt;p&gt;Doykov I.D. et al. used the multiple reaction monitoring approach, based on the liquid chromatography-tandem mass spectrometry. They developed a proteomics assay able to detect 41 proteins in 1mL of urine and tested it with biomaterial of 66 recruited patients with the confirmed FD. The proteins were selected based on the previous proteomic experiments or considered to reflect the organs affected by FD.&lt;/p&gt;
+
+&lt;p&gt;The analysis of these biomarkers in different organs involvement showed that 20 of them correlated with pathological changes in organs and might be considered for the following investigations. Besides, the analysis revealed that these biomarkers could be divided into several groups, to support the diagnostics of FD, including the asymptomatic/early-stage patients, and to monitor the treatment response or disease progression.
+Further studies may confirm the relevance of these biomarkers in different cohorts of FD diagnosed patients; also, these promising findings could stimulate scientist to develop proteomic assays for other lysosomal storage diseases.&lt;/p&gt;
+
+&lt;p&gt;If this approach and the selected biomarkers will prove to be reliable, we can receive the new rapid and non-invasive diagnostic tool for clinical decision making in patients suspected or confirmed for FD.&lt;/p&gt;
+
+&lt;h2 id=&quot;references&quot;&gt;References:&lt;/h2&gt;
+&lt;ol&gt;
+  &lt;li&gt;Doykov ID, Heywood WE, Nikolaenko V, et al Rapid, proteomic urine assay for monitoring progressive organ disease in Fabry diseaseJournal of Medical Genetics Published Online First: 13 September 2019. http://dx.doi.org/10.1136/jmedgenet-2019-106030&lt;/li&gt;
+  &lt;li&gt;https://www.sanofigenzyme.com/en/about-us/our-stories/living-with-fabry-disease-then-and-now&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2 id=&quot;additional-information-on-the-topic&quot;&gt;Additional information on the topic:&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;Fabry disease
+https://ghr.nlm.nih.gov/condition/fabry-disease&lt;/li&gt;
+  &lt;li&gt;Fabry disease
+https://www.orpha.net/consor/cgi-bin/OC_Exp.php?Expert=324&amp;amp;lng=EN&lt;/li&gt;
+  &lt;li&gt;Fabry disease: Clinical features and diagnosis
+https://www.uptodate.com/contents/fabry-disease-clinical-features-and-diagnosis&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+                <pubDate>Sat, 21 Sep 2019 20:36:17 +0200</pubDate>
+                <link>http://localhost:4000/proteomic-assay-for-fabry-disease</link>
+                <guid isPermaLink="true">http://localhost:4000/proteomic-assay-for-fabry-disease</guid>
+                
+                <category>highlights</category>
+                
+                <category>genetics</category>
+                
+                <category>rare diseases</category>
+                
+                <category>proteomics</category>
+                
+                
+                <category>PhD_stories</category>
+                
+            </item>
+        
+            <item>
+                <title>Zika Virus: infected cells and their transcriptome</title>
+                <description>&lt;p&gt;I am reading the infectious disease surveillance data with a certain watchfulness, to be prepared better to face the disease in patients, friends, family. A few years ago my country was at risk to import the Ebola virus disease and in 2016 two cases of Zika virus infection were proved near us, in Poland. There even was a risk of cancellation of The 2016 Summer Olympics in Brazil because of epidemiological status in the country, however, the possible risks were considered as insignificant.
+This note is devoted to the latest research in Zika virus disease.&lt;/p&gt;
+
+&lt;p&gt;This virus disease is transmitted by Aedes mosquitoes, which can infect humans through bites. People who are living or traveling in areas with infection cases, or those who have sex without condoms with such people, are considered to be in the risk group.&lt;/p&gt;
+
+&lt;p&gt;The symptoms of it are unspecific: fever, general malaise, maculopapular rash, conjunctivitis, muscle pain, in some cases the disease will not show any symptoms. In addition, an increased frequency of neurological disorders is reported to be in infected persons: neuropathies, myelitis or even Guillain-Barre syndrome, a severe autoimmune disorder. The diagnosing of the infection is possible using RT-PCR and ELISA, but the effective treatment and vaccination against it is not discovered yet.&lt;/p&gt;
+
+&lt;p&gt;But the main significance of Zika virus disease is in the potential of the virus to infect neuronal progenitor cells. Today’s evidence are enough to confirm the correlation between the infection during pregnancy and fetal brain abnormalities, especially microcephaly.&lt;/p&gt;
+
+&lt;p&gt;In September 2018, the paper about mechanisms of host-pathogen interactions in Zika virus infection was published. Researchers from California investigated the cellular response of human blood monocyte-derived macrophages (HMDMs). At the first stage, they infected HMDMs in vitro in the presence of human Dengue virus immune serum to cause the antibody-dependent enhancement effect. This effect allows to increase the “infectivity” of cells due to sedimentation of non-neutralizing antiviral antibodies on cell membranes, it resulted in 40% of infected macrophages in the culture average. The researchers used immunohistochemical intracellular staining for the flavivirus E protein and used the fluorescence-activated cell sorting to separate ZIKV antigen-positive (ZIKV+) and ZIKV- populations. This allowed to perform the transcriptome investigations and to compare the results of both populations.&lt;/p&gt;
+
+&lt;p&gt;The work is unique itself because it allowed to compare the transcriptome profiles of unmodified separated isolates, instead of the mixed cultures.&lt;/p&gt;
+
+&lt;p&gt;Researchers found that Zika virus interferes in a regulation of several cellular pathways, for example, in ZIKV+ cells an upregulation of genes, associated with cholesterol synthesis, ER/Golgi trafficking and cell survival was detected. An interesting fact, cholesterol itself plays the role in flaviviruses immune evasion and replication, while ER/Golgi apparatus functioning is important for flaviviruses maturation. In the same time, the downregulation of type I interferon signaling and global transcription suppression were shown to be in ZIKV+ cells.&lt;/p&gt;
+
+&lt;p&gt;With this data, scientists believe it will be possible to find a new therapy, based on the infected cells transcription modification, and the new proposed approach allows to separate infected cells from the global population to facilitate the investigations in this field.&lt;/p&gt;
+
+&lt;p&gt;##References&lt;/p&gt;
+&lt;ol&gt;
+  &lt;li&gt;The key article: Aaron F. Carlin et al. ‘Deconvolution of pro- and antiviral genomic responses in Zika virus-infected and bystander macrophages’, Proceedings of the National Academy of Sciences Sep 2018, 201807690
+_ http://www.pnas.org/content/early/2018/09/10/1807690115&lt;/li&gt;
+  &lt;li&gt;Centers for Disease Control and Prevention ‘Zika Virus”, 5 September, 2018 https://www.cdc.gov/zika/index.html&lt;/li&gt;
+  &lt;li&gt;World Health Organization ‘Zika virus”, 20 July 2018, http://www.who.int/news-room/fact-sheets/detail/zika-virus&lt;/li&gt;
+  &lt;li&gt;Irfan A. Rather et al. ‘Zika Virus Infection during Pregnancy and Congenital Abnormalities’, Front Microbiol. 2017; 8: 581._&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+                <pubDate>Sun, 18 Nov 2018 19:36:17 +0100</pubDate>
+                <link>http://localhost:4000/zika-virus-infected-cells-and-their-transcriptome</link>
+                <guid isPermaLink="true">http://localhost:4000/zika-virus-infected-cells-and-their-transcriptome</guid>
+                
+                <category>highlights</category>
+                
+                <category>genetics</category>
+                
+                <category>transcriptomics</category>
+                
+                <category>zika</category>
+                
+                <category>infections</category>
+                
+                
+                <category>MD_stories</category>
+                
+            </item>
+        
+            <item>
+                <title>Diagnostic odyssey of patients with mitochondrial diseases. Information about diagnosis, about those who diagnoses and some numbers</title>
+                <description>&lt;h2 id=&quot;status-quo&quot;&gt;Status quo&lt;/h2&gt;
+&lt;p&gt;They contain 37 genes, they are found inside our cells, they are reproduced by binary division, possibly before symbiosis with ancient eukaryotes they lived as independent organisms, and in reproductive biology it is already possible to use them from a healthy donor. Yes, they are mitochondria.&lt;/p&gt;
+
+&lt;p&gt;By the final oxidizing the products of metabolism of carbohydrates, fats and proteins, mitochondria supply cells with energy in the form of ATP molecules. Thanks to mitochondria homo sapiens are able to think, to move in space, or, in your case, to read this post. And pathological mutations in these 37 genes (as well as in a nucleus of cells which are associated with mitochondria) lead to a disruption of the energy processes of the cells, this manifests as mitochondrial diseases.&lt;/p&gt;
+
+&lt;p&gt;For example, replacement of just one molecule, the base of adenine with guanine at position number 3243 in mitochondrial DNA, causes the syndrome called MELAS, which is “mitochondrial encephalomyopathy, lactic acidosis and stroke-like episodes”. Researchers from Peking University Chang-Yu Xia et al. studied cases of 100 pediatric patients with this mutation and found that the patients had one or more of the following symptoms: seizures, muscle weakness, headache combined with vomiting, blurred vision, hearing loss, impaired verbal communication, cardiac rhythm pathologies [1].&lt;/p&gt;
+
+&lt;p&gt;Nonspecific symptoms in mitochondrial diseases are explained in next: with such mutations, there is a dysfunction of cell metabolism, therefore, the most volatile tissues and organs “ suffer” first. They are nervous and muscular tissue, including the heart, the organs of hearing and vision, the gastrointestinal tract [2].&lt;/p&gt;
+
+&lt;p&gt;In a medical environment, mitochondrial diseases are considered to be an “any symptom, any age, any organ system, and any mode of inheritance” which does not make it easier for doctors to diagnose such diseases. In March 2018, an article was published by researchers from the Columbia University Medical Center which describes what such patients go through before receiving the final diagnosis [3]. I’ll write briefly about it.&lt;/p&gt;
+
+&lt;h2 id=&quot;how-they-were-investigated&quot;&gt;How they were investigated?&lt;/h2&gt;
+&lt;p&gt;Researchers contacted patients from the Rare Diseases Clinical Research Network, proposing an online survey of 25 non-mandatory questions to patients or caregivers. The average expected time for filling out the questionnaire is 15 minutes. Wherever possible, “yes/no” selection or lists were used, but an “other” answer option with text input was also included. The informed consent was obtained from patients, passport data was not recorded in the survey. 215 people filled the survey.&lt;/p&gt;
+
+&lt;h2 id=&quot;what-diagnoses-were-noted-by-patients&quot;&gt;What diagnoses were noted by patients?&lt;/h2&gt;
+&lt;p&gt;More often (21.8%) it was myopathy, 9.6% of cases was chronic progressive external ophthalmoplegia, 9.1% — MELAS, 8.1% — Leigh disease. One patient noted encephalopathy (0.5%), the “other” option was chosen by 28.4% of patients and usually they wrote biochemical deficiencies, more rare syndromes or secondary mitochondrial diseases, where mutations related to mitochondria is an important, but not the only reason in the development of the disease.&lt;/p&gt;
+
+&lt;h2 id=&quot;which-symptoms-were-noted&quot;&gt;Which symptoms were noted?&lt;/h2&gt;
+&lt;p&gt;Weakness (62.4%), fatigue (56.2%), difficulty walking (38.6%), droopy eyelids (32.9%) and impaired coordination (32.4%). Nonspecific complaints explain the difficulties in diagnosing.&lt;/p&gt;
+
+&lt;h2 id=&quot;who-was-the-first-doctor-to-discuss-these-symptoms&quot;&gt;Who was the first doctor to discuss these symptoms?&lt;/h2&gt;
+&lt;p&gt;More than half of the patients first discussed the symptoms on the consultation with a general practitioner, 35.2% with a specialist. However, only 12.9% of the patients were provided with mitochondrial disease diagnosis from the first doctor. On average, such patients visited ~8 doctors before diagnosis (median value is 5). 7 patients, or 3.6%, visited 20 doctors or more.&lt;/p&gt;
+
+&lt;h2 id=&quot;which-specialists-provided-the-diagnosis&quot;&gt;Which specialists provided the diagnosis?&lt;/h2&gt;
+&lt;p&gt;In 55.2% of cases it was a neurologist, in 18.2% — a clinical geneticist, in 11.8% — a specialist in metabolic diseases. This data correlates with the symptoms described above.&lt;/p&gt;
+
+&lt;h2 id=&quot;what-diagnostic-procedures-were-performed&quot;&gt;What diagnostic procedures were performed?&lt;/h2&gt;
+&lt;p&gt;84.8% of the patients were investigated by blood tests (lactate, pyruvate, amino acid concentration, or genetic testing), 71% of patients had muscle biopsy with histological examination, 60.5% of patients had MRI, 38.6% tested for urine organic acids.&lt;/p&gt;
+
+&lt;h2 id=&quot;which-genetic-tests&quot;&gt;Which genetic tests?&lt;/h2&gt;
+&lt;p&gt;39.5% of patients underwent sequencing of mitochondrial DNA prior to diagnosis, in 19% cases it was a sequencing of nuclear DNA, and only 11.4% received whole-exome sequencing.&lt;/p&gt;
+
+&lt;h2 id=&quot;further-actions&quot;&gt;Further actions&lt;/h2&gt;
+&lt;p&gt;Most of the patients: — noted that they began a treatment after receiving the diagnosis (81.7%); — joined a patient organization or a community with mitochondrial diseases (71.8%). Almost all of them reported that participation in such organizations was beneficial for them;&lt;/p&gt;
+
+&lt;h2 id=&quot;on-the-way-to-diagnosis&quot;&gt;On the way to diagnosis&lt;/h2&gt;
+&lt;p&gt;More than half of the patients (54.6%) indicated that before the diagnosis of the mitochondrial disease, an alternative diagnosis was obtained, and 31.9% reported for having received more than one diagnosis. More often psychiatric syndromes (depression and conversion disorder), fibromyalgia, chronic fatigue syndrome, multiple sclerosis diagnoses were provided instead of the actual mitochondrial disorders.&lt;/p&gt;
+
+&lt;h2 id=&quot;if-you-were-to-learn-today-that-the-mitochondrial-disease-diagnosis-you-received-is-incorrect-and-that-you-do-not-in-fact-have-a-mitochondrial-disease-how-would-this-affect-you&quot;&gt;“If you were to learn today that the mitochondrial disease diagnosis you received is incorrect, and that you do not in fact have a mitochondrial disease, how would this affect you?“&lt;/h2&gt;
+&lt;p&gt;This question was asked to patients, and ~35% of them chose the option “positively” or “very positively”, ~30% noted that it would not have affected, and the for rest it would affect negatively. The authors believe that a significant number of patients who chose “neutrally” considered this answer because of a lack of a specific treatment for the diagnosed pathology.&lt;/p&gt;
+
+&lt;h2 id=&quot;as-the-result&quot;&gt;As the result&lt;/h2&gt;
+&lt;p&gt;Some weaknesses were present in the study, the main one: the information about diagnoses and symptoms was entered by patients themselves and this may compromise the results. Some patients do not take therapy, probably because they have not been offered therapy for their disease yet. And even among those who have received treatment prescriptions, just a symptomatic therapy may be implied. Patients consider it important to unite in organizations, since this implies the exchange of information with other patients and doctors, also their interests could be protected better. The authors note that in recent years a muscle biopsy, a painful and invasive method, is used less often, but the portion of genetic tests, such as sequencing of the mitochondrial genome, is increasing. The study makes it clear what patients with mitochondrial diseases go through, including the exceptional cases when the patient had to visit more than 20 doctors before the final diagnosis will be made. Probably, the situation with this group of diseases will improve with a reduction of the cost of genetic testing, in particular, the sequencing of the mitochondrial genome. There are great hopes that timely diagnostics will be achieved through the implementation of projects on creation of genetic passports at national levels. The therapy of such diseases, which is connected with the high cost of development and limited sales market, remains a problematic issue. This, in a long run, increases the financial burden on patients and other taxpayers in countries where orphan disease therapy is compensated for by public funds. Fortunately, in the post-genomic era, such patients have a chance to control their disease.&lt;/p&gt;
+
+&lt;p&gt;How do you think, are there people with such mutations that have not yet been identified among the people you know?
+And if you are a doctor — how do you think, how many of the mitochondrial diseases you did not recognize during first consultations?&lt;/p&gt;
+
+&lt;h2 id=&quot;references&quot;&gt;References:&lt;/h2&gt;
+&lt;ol&gt;
+  &lt;li&gt;Chang-Yu Xia et al., Clinical and Molecular Characteristics in 100 Chinese Pediatric Patients with m.3243A&amp;gt;G Mutation in Mitochondrial DNA. https://www.ncbi.nlm.nih.gov/pubmed/27503020&lt;/li&gt;
+  &lt;li&gt;Amy Goldstein Mitochondrial Diseases http://www.childneurologyfoundation.org/disorders/mitochondrial-diseases/&lt;/li&gt;
+  &lt;li&gt;Grier J et al. Diagnostic odyssey of patients with mitochondrial disease: Results of a survey. https://www.ncbi.nlm.nih.gov/pubmed/29600276 Image: Cells (BPAE) showing Mitochondria (red), actin filaments (green) and nuclei (blue) captured with iXon 897.Courtesy of Mike Davidson, Florida State University, USA; http://www.andor.com/cameras-for-microscopy&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2 id=&quot;additional-information-on-the-topic&quot;&gt;Additional information on the topic:&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;Mitochondrial disease news https://mitochondrialdiseasenews.com/&lt;/li&gt;
+  &lt;li&gt;Foundation for Mitochondrial Medicine http://mitochondrialdiseases.org&lt;/li&gt;
+  &lt;li&gt;Rare Mitochondrial Disorders Service (UK) http://mitochondrialdisease.nhs.uk/&lt;/li&gt;
+  &lt;li&gt;Saskia B. Wortmann et al. Whole exome sequencing of suspected mitochondrial patients in clinical practice https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4432107/&lt;/li&gt;
+  &lt;li&gt;Vento JM Genetic counseling in mitochondrial disease. https://www.ncbi.nlm.nih.gov/pubmed/23264099&lt;/li&gt;
+  &lt;li&gt;Elizabeth McCormick et al. Molecular Genetic Testing for Mitochondrial Disease: From One Generation to the Next https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3625386/&lt;/li&gt;
+  &lt;li&gt;Carroll CJ Next-generation sequencing for mitochondrial disorders. https://www.ncbi.nlm.nih.gov/pubmed/24138576&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+                <pubDate>Fri, 18 May 2018 20:36:17 +0200</pubDate>
+                <link>http://localhost:4000/diagnostic-odyssey-mito</link>
+                <guid isPermaLink="true">http://localhost:4000/diagnostic-odyssey-mito</guid>
+                
+                <category>highlights</category>
+                
+                <category>genetics</category>
+                
+                <category>rare diseases</category>
+                
+                <category>mitochondria</category>
+                
+                
+                <category>MD_stories</category>
+                
+                <category>For_patients</category>
+                
+            </item>
+        
+    </channel>
+</rss>
